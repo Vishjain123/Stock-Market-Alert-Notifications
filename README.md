@@ -28,7 +28,4 @@ In our Intraday and daily files,
 specified time period.
 4. Then we specify our condition. And store first 3 articles using news api.
 5. Lastly we send each article on sms using twilio account.
-## Conclusion:-
-Using this project, we can track any unexpected news that affect stock price. For example if we use this 
-project on Microsoft stock on 14 July and make % difference to 1 then we get following sms –
-https://github.com/rajeshkasaniya/Stock_News_Alert/blob/master/Example.jpeg
+
